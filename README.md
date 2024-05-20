@@ -1,6 +1,6 @@
 # Tostar
 
-This repository demonstrates the integration of Toastr with Livewire in a Laravel application. Follow these steps to set up and use Toastr notifications triggered by Livewire events.
+This setup ensures that your Laravel application can easily trigger Toastr notifications through Livewire events. Whether using Livewire v2 or v3, this guide covers the necessary steps to get Toastr notifications up and running in no time.
 
 ## Setup
 
@@ -62,4 +62,4 @@ This repository demonstrates the integration of Toastr with Livewire in a Larave
     ```
 
 
-This setup ensures that your Laravel application can easily trigger Toastr notifications through Livewire events. Whether using Livewire v2 or v3, this guide covers the necessary steps to get Toastr notifications up and running in no time.
+
